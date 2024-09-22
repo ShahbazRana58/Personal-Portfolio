@@ -512,7 +512,7 @@ a.btn:nth-child(2){
     animation: javascript 4s;
 }
 .skill-bar .bar .figma{
-    width: 50%;
+    width: 70%;
     animation: figma 5s;
 }
 @keyframes html {
